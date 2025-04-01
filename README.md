@@ -1,7 +1,5 @@
 # Sliding Window DSA Questions
 
-# Sliding Window DSA Questions
-
 ## 1. Fixed-Size Sliding Window  
 - **Maximum sum of a subarray of size K**  
 - **Maximum of all subarrays of size K**
